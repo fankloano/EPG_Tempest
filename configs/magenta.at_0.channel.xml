@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="magenta.at_0">
+  <channels>
+    <channel site="magenta.at_0" site_id="Magenta_PULS24_HD" xmltv_id="Magenta HD">Magenta HD</channel>
+    <channel site="magenta.at_0" site_id="ORF_eins_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1277.f.png" xmltv_id="ORF 1 HD">ORF 1 HD</channel>
+    <channel site="magenta.at_0" site_id="ORF2_Wien_HD" xmltv_id="ORF 2 Wien HD">ORF 2 Wien HD</channel>
+    <channel site="magenta.at_0" site_id="ATV_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7052.f.png" xmltv_id="ATV HD">ATV HD</channel>
+    <channel site="magenta.at_0" site_id="PULS_4_HD" xmltv_id="PULS 4 HD">PULS 4 HD</channel>
+    <channel site="magenta.at_0" site_id="Servus_TV_HD" xmltv_id="Servus TV HD">Servus TV HD</channel>
+    <channel site="magenta.at_0" site_id="ZDF_HD" xmltv_id="ZDF HD">ZDF HD</channel>
+    <channel site="magenta.at_0" site_id="ProSieben_HD" xmltv_id="ProSieben HD">ProSieben HD</channel>
+    <channel site="magenta.at_0" site_id="RTL_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4637.f.png" xmltv_id="RTL HD">RTL HD</channel>
+    <channel site="magenta.at_0" site_id="W24_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7113.f.png" xmltv_id="W24 HD">W24 HD</channel>
+    <channel site="magenta.at_0" site_id="VOX_HD" xmltv_id="VOX HD">VOX HD</channel>
+    <channel site="magenta.at_0" site_id="Sat_1_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7096.f.png" xmltv_id="SAT.1 HD">SAT.1 HD</channel>
+    <channel site="magenta.at_0" site_id="ORF_III_HD" xmltv_id="ORF III HD">ORF III HD</channel>
+    <channel site="magenta.at_0" site_id="Das_Erste_HD" xmltv_id="Das Erste HD">Das Erste HD</channel>
+    <channel site="magenta.at_0" site_id="kabel_eins_HD" xmltv_id="Kabel Eins HD">Kabel Eins HD</channel>
+    <channel site="magenta.at_0" site_id="RTL_II_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7134.f.png" xmltv_id="RTLZWEI HD">RTLZWEI HD</channel>
+    <channel site="magenta.at_0" site_id="ATV_II_HD" xmltv_id="ATV2 HD">ATV2 HD</channel>
+    <channel site="magenta.at_0" site_id="PULS24_HD" xmltv_id="PULS24 HD">PULS24 HD</channel>
+    <channel site="magenta.at_0" site_id="oe24_TV_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8418.f.png" xmltv_id="oe24.TV HD">oe24.TV HD</channel>
+    <channel site="magenta.at_0" site_id="n_tv_HD" xmltv_id="n-tv HD">n-tv HD</channel>
+    <channel site="magenta.at_0" site_id="exxpress_TV" xmltv_id="eXXpressTV">eXXpressTV</channel>
+    <channel site="magenta.at_0" site_id="Sat_1_Gold_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Sat_1_Gold_HD.f.png" xmltv_id="SAT.1 Gold HD">SAT.1 Gold HD</channel>
+    <channel site="magenta.at_0" site_id="RTL_Nitro_HD" xmltv_id="Nitro HD">Nitro HD</channel>
+    <channel site="magenta.at_0" site_id="Sixx_Austria_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Sixx_Austria_HD.f.png" xmltv_id="sixx austria HD">sixx austria HD</channel>
+    <channel site="magenta.at_0" site_id="RTLplus_HD" xmltv_id="RTLup HD">RTLup HD</channel>
+    <channel site="magenta.at_0" site_id="ProSieben_Maxx_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/ProSieben_Maxx_HD.f.png" xmltv_id="ProSieben Maxx HD">ProSieben Maxx HD</channel>
+    <channel site="magenta.at_0" site_id="DMAX_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/DMAX_HD.f.png" xmltv_id="DMAX HD">DMAX HD</channel>
+    <channel site="magenta.at_0" site_id="kabel_eins_Doku_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/kabel_eins_Doku_HD.f.png" xmltv_id="Kabel Eins Doku HD">Kabel Eins Doku HD</channel>
+    <channel site="magenta.at_0" site_id="N24_Austria||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8260.f.png" xmltv_id="N24 doku">N24 doku</channel>
+    <channel site="magenta.at_0" site_id="ZDF_neo_HD" xmltv_id="ZDFneo HD">ZDFneo HD</channel>
+    <channel site="magenta.at_0" site_id="EinsFestival_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7061.f.png" xmltv_id="One HD">One HD</channel>
+    <channel site="magenta.at_0" site_id="Comedy_Central_VIVA_HD" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel site="magenta.at_0" site_id="TLC_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8072.f.png" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="magenta.at_0" site_id="TELE_5" xmltv_id="TELE 5">TELE 5</channel>
+    <channel site="magenta.at_0" site_id="arte_HD" xmltv_id="arte HD">arte HD</channel>
+    <channel site="magenta.at_0" site_id="3sat_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1287.f.png" xmltv_id="3sat HD">3sat HD</channel>
+    <channel site="magenta.at_0" site_id="BR_HD" xmltv_id="BR Fernsehen HD">BR Fernsehen HD</channel>
+    <channel site="magenta.at_0" site_id="R9_HD" xmltv_id="R9 HD">R9 HD</channel>
+    <channel site="magenta.at_0" site_id="Schau_TV_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/760945.f.png" xmltv_id="Schau TV HD">Schau TV HD</channel>
+    <channel site="magenta.at_0" site_id="krone_tv_HD" xmltv_id="krone.tv HD">krone.tv HD</channel>
+    <channel site="magenta.at_0" site_id="OKTO_HD" xmltv_id="Okto HD">Okto HD</channel>
+    <channel site="magenta.at_0" site_id="ARCADIA_World_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8710.f.png" xmltv_id="ARCADIA World HD">ARCADIA World HD</channel>
+    <channel site="magenta.at_0" site_id="Phoenix_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7084.f.png" xmltv_id="phoenix HD">phoenix HD</channel>
+    <channel site="magenta.at_0" site_id="ZDF_info_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7114.f.png" xmltv_id="ZDFinfo HD">ZDFinfo HD</channel>
+    <channel site="magenta.at_0" site_id="tagesschau24_HD" xmltv_id="tagesschau24 HD">tagesschau24 HD</channel>
+    <channel site="magenta.at_0" site_id="ARD_alpha_HD" xmltv_id="ARD alpha HD">ARD alpha HD</channel>
+    <channel site="magenta.at_0" site_id="Bibel_TV_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8068.f.png" xmltv_id="Bibel TV HD">Bibel TV HD</channel>
+    <channel site="magenta.at_0" site_id="WDR_Koeln_HD" xmltv_id="WDR Fernsehen HD">WDR Fernsehen HD</channel>
+    <channel site="magenta.at_0" site_id="MDR_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7068.f.png" xmltv_id="MDR Fernsehen HD">MDR Fernsehen HD</channel>
+    <channel site="magenta.at_0" site_id="SWR_HD" xmltv_id="SWR HD">SWR HD</channel>
+    <channel site="magenta.at_0" site_id="NDR_FS_NDS_HD" xmltv_id="NDR Fernsehen HD">NDR Fernsehen HD</channel>
+    <channel site="magenta.at_0" site_id="hessen_fernsehen_HD" xmltv_id="hr-fernsehen HD">hr-fernsehen HD</channel>
+    <channel site="magenta.at_0" site_id="RBB_Berlin_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8712.f.png" xmltv_id="rbb HD">rbb HD</channel>
+    <channel site="magenta.at_0" site_id="SRF_Info_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1066.f.png" xmltv_id="SRF info HD">SRF info HD</channel>
+    <channel site="magenta.at_0" site_id="SR_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8739.f.png" xmltv_id="SR HD">SR HD</channel>
+    <channel site="magenta.at_0" site_id="KI_KA_HD" xmltv_id="KiKA HD">KiKA HD</channel>
+    <channel site="magenta.at_0" site_id="Super_RTL_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7210.f.png" xmltv_id="Super RTL HD">Super RTL HD</channel>
+    <channel site="magenta.at_0" site_id="Nickelodeon_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8471.f.png" xmltv_id="Nick HD">Nick HD</channel>
+    <channel site="magenta.at_0" site_id="Disney_Channel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="magenta.at_0" site_id="RiC" xmltv_id="RiC">RiC</channel>
+    <channel site="magenta.at_0" site_id="Cartoon_Network_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7054.f.png" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel site="magenta.at_0" site_id="fix___foxi||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/3044.f.png" xmltv_id="Fix &amp; Foxi">Fix &amp; Foxi</channel>
+    <channel site="magenta.at_0" site_id="Baby_TV" xmltv_id="Baby TV">Baby TV</channel>
+    <channel site="magenta.at_0" site_id="Nick_Junior||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/3060.f.png" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel site="magenta.at_0" site_id="Deluxe_Music_HD" xmltv_id="Deluxe Music HD">Deluxe Music HD</channel>
+    <channel site="magenta.at_0" site_id="gotv||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1057.f.png" xmltv_id="gotv">gotv</channel>
+    <channel site="magenta.at_0" site_id="MTV_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/3014.f.png" xmltv_id="MTV HD">MTV HD</channel>
+    <channel site="magenta.at_0" site_id="Melodie_TV" xmltv_id="Melodie TV">Melodie TV</channel>
+    <channel site="magenta.at_0" site_id="QVC_HD" xmltv_id="QVC HD">QVC HD</channel>
+    <channel site="magenta.at_0" site_id="HSE24_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4681.f.png" xmltv_id="HSE HD">HSE HD</channel>
+    <channel site="magenta.at_0" site_id="QVC_2_HD" xmltv_id="QVC 2 HD">QVC 2 HD</channel>
+    <channel site="magenta.at_0" site_id="HSE24_Extra_HD" xmltv_id="HSE Extra HD">HSE Extra HD</channel>
+    <channel site="magenta.at_0" site_id="123_tv" xmltv_id="123.tv">123.tv</channel>
+    <channel site="magenta.at_0" site_id="HSE24_Trend||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/0202.f.png" xmltv_id="HSE Trend">HSE Trend</channel>
+    <channel site="magenta.at_0" site_id="QVC_Beauty_Style" xmltv_id="QVC Style">QVC Style</channel>
+    <channel site="magenta.at_0" site_id="HGTV" xmltv_id="Home &amp; Garden TV">Home &amp; Garden TV</channel>
+    <channel site="magenta.at_0" site_id="Auto_Motor_und_Sport_Channel_UHD_Hinweistafel" xmltv_id="auto motor und sport channel UHD">auto motor und sport channel UHD</channel>
+    <channel site="magenta.at_0" site_id="ORF_Sport__HD" xmltv_id="ORF Sport+ HD">ORF Sport+ HD</channel>
+    <channel site="magenta.at_0" site_id="Eurosport_1_HD" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel site="magenta.at_0" site_id="Sport_1_HD" xmltv_id="Sport 1 HD">Sport 1 HD</channel>
+    <channel site="magenta.at_0" site_id="Laola1_TV_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Laola1_TV_HD.f.png" xmltv_id="Laola1.TV HD">Laola1.TV HD</channel>
+    <channel site="magenta.at_0" site_id="AlpentourTV_HD" xmltv_id="K19">K19</channel>
+    <channel site="magenta.at_0" site_id="Sport1__HD" xmltv_id="Sport1+ HD">Sport1+ HD</channel>
+    <channel site="magenta.at_0" site_id="sportdigital_HD" xmltv_id="SPORTDIGITAL FUSSBALL HD">SPORTDIGITAL FUSSBALL HD</channel>
+    <channel site="magenta.at_0" site_id="Auto_Motor_und_Sport_Channel_HD" xmltv_id="auto motor und sport channel HD">auto motor und sport channel HD</channel>
+    <channel site="magenta.at_0" site_id="Motorvision_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8470.f.png" xmltv_id="Motorvision HD">Motorvision HD</channel>
+    <channel site="magenta.at_0" site_id="Sport_1_US_HD" xmltv_id="eSports1 HD">eSports1 HD</channel>
+    <channel site="magenta.at_0" site_id="Extreme_Sports_Channel" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel site="magenta.at_0" site_id="ORF2_Burgenland_HD" xmltv_id="ORF 2 Burgenland HD">ORF 2 Burgenland HD</channel>
+    <channel site="magenta.at_0" site_id="ORF2_K_rnten_HD" xmltv_id="ORF 2 Kärnten HD">ORF 2 Kärnten HD</channel>
+    <channel site="magenta.at_0" site_id="ORF2_Nieder_sterreich_HD" xmltv_id="ORF 2 Nö HD">ORF 2 Nö HD</channel>
+    <channel site="magenta.at_0" site_id="ORF2_Ober_sterreich_HD" xmltv_id="ORF 2 Oberösterreich HD">ORF 2 Oberösterreich HD</channel>
+    <channel site="magenta.at_0" site_id="ORF2_Salzburg_HD" xmltv_id="ORF 2 Salzburg HD">ORF 2 Salzburg HD</channel>
+    <channel site="magenta.at_0" site_id="ORF2_Steiermark_HD" xmltv_id="ORF 2 Steiermark HD">ORF 2 Steiermark HD</channel>
+    <channel site="magenta.at_0" site_id="ORF2_Tirol_HD" xmltv_id="ORF 2 Tirol HD">ORF 2 Tirol HD</channel>
+    <channel site="magenta.at_0" site_id="ORF2_Vorarlberg_HD" xmltv_id="ORF 2 Vorarlberg HD">ORF 2 Vorarlberg HD</channel>
+    <channel site="magenta.at_0" site_id="Hitradio_OE3_HD" xmltv_id="Hitradio OE3 HD">Hitradio OE3 HD</channel>
+    <channel site="magenta.at_0" site_id="ORF2_Europa||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4914.f.png" xmltv_id="ORF 2 EUROPE">ORF 2 EUROPE</channel>
+    <channel site="magenta.at_0" site_id="Tirol_TV_HD" xmltv_id="Tirol TV HD">Tirol TV HD</channel>
+    <channel site="magenta.at_0" site_id="Laendle_TV_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/9068.f.png" xmltv_id="Ländle TV HD">Ländle TV HD</channel>
+    <channel site="magenta.at_0" site_id="WNTV_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/WNTV_HD.f.png" xmltv_id="WNTV HD">WNTV HD</channel>
+    <channel site="magenta.at_0" site_id="KT_1" xmltv_id="KT 1">KT 1</channel>
+    <channel site="magenta.at_0" site_id="VOD_Fullscreen||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1311.f.png" xmltv_id="Magenta On Demand">Magenta On Demand</channel>
+    <channel site="magenta.at_0" site_id="13TH_STREET_HD" xmltv_id="13TH STREET HD">13TH STREET HD</channel>
+    <channel site="magenta.at_0" site_id="RTL_Crime_HD" xmltv_id="RTL Crime HD">RTL Crime HD</channel>
+    <channel site="magenta.at_0" site_id="Universal_Channel_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/5194.f.png" xmltv_id="Universal TV HD">Universal TV HD</channel>
+    <channel site="magenta.at_0" site_id="Syfy_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1108.f.png" xmltv_id="Syfy HD">Syfy HD</channel>
+    <channel site="magenta.at_0" site_id="TNT_Serie_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1107.f.png" xmltv_id="Warner TV Serie HD">Warner TV Serie HD</channel>
+    <channel site="magenta.at_0" site_id="TNT_Comedy_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4525.f.png" xmltv_id="Warner TV Comedy HD">Warner TV Comedy HD</channel>
+    <channel site="magenta.at_0" site_id="Kinowelt_TV_HD" xmltv_id="Kinowelt TV HD">Kinowelt TV HD</channel>
+    <channel site="magenta.at_0" site_id="kabel_eins_classics_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8071.f.png" xmltv_id="kabel eins CLASSICS HD">kabel eins CLASSICS HD</channel>
+    <channel site="magenta.at_0" site_id="Romance_TV_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1318.f.png" xmltv_id="Romance TV HD">Romance TV HD</channel>
+    <channel site="magenta.at_0" site_id="RTL_Passion_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4635.f.png" xmltv_id="RTL Passion HD">RTL Passion HD</channel>
+    <channel site="magenta.at_0" site_id="Heimatkanal" xmltv_id="Heimatkanal">Heimatkanal</channel>
+    <channel site="magenta.at_0" site_id="Sky_Krimi||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1052.f.png" xmltv_id="Sky Krimi HD">Sky Krimi HD</channel>
+    <channel site="magenta.at_0" site_id="BBC_Entertainment||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/0184.f.png" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel site="magenta.at_0" site_id="Sat_1_emotions_HD" xmltv_id="SAT.1 emotions HD">SAT.1 emotions HD</channel>
+    <channel site="magenta.at_0" site_id="ProSieben_FUN_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/ProSieben_FUN_HD.f.png" xmltv_id="ProSieben FUN HD">ProSieben FUN HD</channel>
+    <channel site="magenta.at_0" site_id="GEO_Television_HD" xmltv_id="GEO Television HD">GEO Television HD</channel>
+    <channel site="magenta.at_0" site_id="Spiegel_Geschichte_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/9098.f.png" xmltv_id="Spiegel Geschichte HD">Spiegel Geschichte HD</channel>
+    <channel site="magenta.at_0" site_id="Spiegel_Wissen_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Spiegel_Wissen_HD.f.png" xmltv_id="SPIEGEL TV Wissen HD">SPIEGEL TV Wissen HD</channel>
+    <channel site="magenta.at_0" site_id="History_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1094.f.png" xmltv_id="History HD">History HD</channel>
+    <channel site="magenta.at_0" site_id="Nat_Geo_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1103.f.png" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+    <channel site="magenta.at_0" site_id="Nat_Geo_People_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4634.f.png" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel site="magenta.at_0" site_id="Planet_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1316.f.png" xmltv_id="Bergblick">Bergblick</channel>
+    <channel site="magenta.at_0" site_id="A_E_HD" xmltv_id="Crime + Investigation HD">Crime + Investigation HD</channel>
+    <channel site="magenta.at_0" site_id="RTL_Living_HD" xmltv_id="RTL Living HD">RTL Living HD</channel>
+    <channel site="magenta.at_0" site_id="Bongusto_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/3058.f.png" xmltv_id="Bongusto HD">Bongusto HD</channel>
+    <channel site="magenta.at_0" site_id="Fashion_TV_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4697.f.png" xmltv_id="Fashion-TV HD">Fashion-TV HD</channel>
+    <channel site="magenta.at_0" site_id="E__Entertainment_HD" xmltv_id="E! HD">E! HD</channel>
+    <channel site="magenta.at_0" site_id="VH_1_Classic||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1178.f.png" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel site="magenta.at_0" site_id="Gute_Laune_TV" xmltv_id="Gute Laune TV">Gute Laune TV</channel>
+    <channel site="magenta.at_0" site_id="Classica_HD" xmltv_id="Stingray Classica HD">Stingray Classica HD</channel>
+    <channel site="magenta.at_0" site_id="MTV_live_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/2071.f.png" xmltv_id="MTV live HD">MTV live HD</channel>
+    <channel site="magenta.at_0" site_id="Euronews" xmltv_id="euronews HD">euronews HD</channel>
+    <channel site="magenta.at_0" site_id="BBC_World" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="magenta.at_0" site_id="CNN" xmltv_id="CNN International">CNN International</channel>
+    <channel site="magenta.at_0" site_id="CNBC" xmltv_id="CNBC">CNBC</channel>
+    <channel site="magenta.at_0" site_id="TV5Monde_Europe||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1202.f.png" xmltv_id="TV5Monde Europe">TV5Monde Europe</channel>
+    <channel site="magenta.at_0" site_id="France_24" xmltv_id="France 24 HD">France 24 HD</channel>
+    <channel site="magenta.at_0" site_id="Russia_today||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1182.f.png" xmltv_id="RT">RT</channel>
+    <channel site="magenta.at_0" site_id="CCTV_News||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/0132.f.png" xmltv_id="CGTN">CGTN</channel>
+    <channel site="magenta.at_0" site_id="Bloomberg_Europe||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1185.f.png" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+    <channel site="magenta.at_0" site_id="YouTube_App||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/channel_logo_you-tube.png" xmltv_id="YouTube">YouTube</channel>
+    <channel site="magenta.at_0" site_id="PrimeVideo_App" xmltv_id="Prime Video">Prime Video</channel>
+    <channel site="magenta.at_0" site_id="YouTubeKids_App" xmltv_id="YouTube Kids">YouTube Kids</channel>
+    <channel site="magenta.at_0" site_id="ORF_eins||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1006.f.png" xmltv_id="ORF 1">ORF 1</channel>
+    <channel site="magenta.at_0" site_id="ORF2_Wien||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7083.f.png" xmltv_id="ORF 2 Wien">ORF 2 Wien</channel>
+    <channel site="magenta.at_0" site_id="ATV" xmltv_id="ATV">ATV</channel>
+    <channel site="magenta.at_0" site_id="PULS_4" xmltv_id="PULS 4">PULS 4</channel>
+    <channel site="magenta.at_0" site_id="Servus_TV||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7115.f.png" xmltv_id="Servus TV">Servus TV</channel>
+    <channel site="magenta.at_0" site_id="ProSieben" xmltv_id="ProSieben">ProSieben</channel>
+    <channel site="magenta.at_0" site_id="RTL||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7092.f.png" xmltv_id="RTL">RTL</channel>
+    <channel site="magenta.at_0" site_id="VOX||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7112.f.png" xmltv_id="VOX">VOX</channel>
+    <channel site="magenta.at_0" site_id="Sat_1" xmltv_id="SAT.1">SAT.1</channel>
+    <channel site="magenta.at_0" site_id="ORF_III" xmltv_id="ORF III">ORF III</channel>
+    <channel site="magenta.at_0" site_id="kabel_eins" xmltv_id="Kabel Eins">Kabel Eins</channel>
+    <channel site="magenta.at_0" site_id="RTL_II||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7093.f.png" xmltv_id="RTLZWEI">RTLZWEI</channel>
+    <channel site="magenta.at_0" site_id="ATV_II" xmltv_id="ATV2">ATV2</channel>
+    <channel site="magenta.at_0" site_id="PULS24||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/2061.f.png" xmltv_id="PULS24">PULS24</channel>
+    <channel site="magenta.at_0" site_id="oe24_TV" xmltv_id="oe24.TV">oe24.TV</channel>
+    <channel site="magenta.at_0" site_id="n_tv" xmltv_id="n-tv">n-tv</channel>
+    <channel site="magenta.at_0" site_id="krone_tv" xmltv_id="krone.tv">krone.tv</channel>
+    <channel site="magenta.at_0" site_id="OKTO||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7059.f.png" xmltv_id="Okto">Okto</channel>
+    <channel site="magenta.at_0" site_id="Sat_1_Gold" xmltv_id="Sat.1 Gold">Sat.1 Gold</channel>
+    <channel site="magenta.at_0" site_id="RTL_Nitro" xmltv_id="Nitro">Nitro</channel>
+    <channel site="magenta.at_0" site_id="Sixx_Austria" xmltv_id="sixx austria">sixx austria</channel>
+    <channel site="magenta.at_0" site_id="RTLplus||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8689.f.png" xmltv_id="RTLup">RTLup</channel>
+    <channel site="magenta.at_0" site_id="Pro7_Maxx" xmltv_id="ProSieben Maxx">ProSieben Maxx</channel>
+    <channel site="magenta.at_0" site_id="DMAX||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1072.f.png" xmltv_id="DMAX">DMAX</channel>
+    <channel site="magenta.at_0" site_id="kabel_eins_Doku||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8417.f.png" xmltv_id="Kabel Eins Doku">Kabel Eins Doku</channel>
+    <channel site="magenta.at_0" site_id="Super_RTL" xmltv_id="Super RTL">Super RTL</channel>
+    <channel site="magenta.at_0" site_id="ORF_Sport_" xmltv_id="ORF Sport+">ORF Sport+</channel>
+    <channel site="magenta.at_0" site_id="VESTI" xmltv_id="VESTI">VESTI</channel>
+    <channel site="magenta.at_0" site_id="Toxic_TV_HD" xmltv_id="Toxic TV HD">Toxic TV HD</channel>
+    <channel site="magenta.at_0" site_id="Film_Klub" xmltv_id="Film Klub">Film Klub</channel>
+    <channel site="magenta.at_0" site_id="RTS_Sat||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1254.f.png" xmltv_id="RTS Svet HD">RTS Svet HD</channel>
+    <channel site="magenta.at_0" site_id="RTV_Montenegro" xmltv_id="RTCG SAT">RTCG SAT</channel>
+    <channel site="magenta.at_0" site_id="Eurosport_Srbija||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7058.f.png" xmltv_id="Eurosport 1 Srbija">Eurosport 1 Srbija</channel>
+    <channel site="magenta.at_0" site_id="HRT_TV_1" xmltv_id="HRT TV1 HD">HRT TV1 HD</channel>
+    <channel site="magenta.at_0" site_id="TV_Polonia||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/3041.f.png" xmltv_id="TV Polonia">TV Polonia</channel>
+    <channel site="magenta.at_0" site_id="Duna_TV||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7060.f.png" xmltv_id="Duna TV">Duna TV</channel>
+    <channel site="magenta.at_0" site_id="TRT_International" xmltv_id="TRT World">TRT World</channel>
+    <channel site="magenta.at_0" site_id="Eurosport_Turkce" xmltv_id="Eurosport Türkiye">Eurosport Türkiye</channel>
+    <channel site="magenta.at_0" site_id="Klasik_TV||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Klasik_TV.f.png" xmltv_id="Klasik TV">Klasik TV</channel>
+    <channel site="magenta.at_0" site_id="Habertuerk_TV" xmltv_id="Habertürk TV">Habertürk TV</channel>
+    <channel site="magenta.at_0" site_id="Al_Jazeera" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel site="magenta.at_0" site_id="24_Vesti_news" xmltv_id="24 Vesti">24 Vesti</channel>
+    <channel site="magenta.at_0" site_id="RAI_Uno" xmltv_id="RAI Uno">RAI Uno</channel>
+    <channel site="magenta.at_0" site_id="RAI_Due" xmltv_id="RAI Due">RAI Due</channel>
+    <channel site="magenta.at_0" site_id="RAI_Tre" xmltv_id="RAI Tre">RAI Tre</channel>
+    <channel site="magenta.at_0" site_id="RTR_Planeta" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel site="magenta.at_0" site_id="EDTV_1" xmltv_id="Dubai TV">Dubai TV</channel>
+    <channel site="magenta.at_0" site_id="CCTV4" xmltv_id="CCTV4">CCTV4</channel>
+    <channel site="magenta.at_0" site_id="MTV_90s||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4608.f.png" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel site="magenta.at_0" site_id="MTV_Dance||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1172.f.png" xmltv_id="Club MTV">Club MTV</channel>
+    <channel site="magenta.at_0" site_id="MTVhits_" xmltv_id="MTVhits!">MTVhits!</channel>
+    <channel site="magenta.at_0" site_id="VH_1_Europe" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel site="magenta.at_0" site_id="Hayat" xmltv_id="Hayat">Hayat</channel>
+    <channel site="magenta.at_0" site_id="Pink_Plus||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1243.f.png" xmltv_id="Pink Plus">Pink Plus</channel>
+    <channel site="magenta.at_0" site_id="Pink_Extra" xmltv_id="Pink Extra">Pink Extra</channel>
+    <channel site="magenta.at_0" site_id="Pink_Film" xmltv_id="Pink Film">Pink Film</channel>
+    <channel site="magenta.at_0" site_id="Pink_Music||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/3015.f.png" xmltv_id="Pink Music">Pink Music</channel>
+    <channel site="magenta.at_0" site_id="Blue_Hustler" xmltv_id="Blue Hustler">Blue Hustler</channel>
+    <channel site="magenta.at_0" site_id="Hustler_TV" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel site="magenta.at_0" site_id="Evil_Angel_HD" xmltv_id="Evil Angel HD">Evil Angel HD</channel>
+    <channel site="magenta.at_0" site_id="Lokal_TV_Wien" xmltv_id="Lokal TV">Lokal TV</channel>
+    <channel site="magenta.at_0" site_id="Magenta_PULS24" xmltv_id="Magenta PULS24">Magenta PULS24</channel>
+    <channel site="magenta.at_0" site_id="ZDF" xmltv_id="ZDF">ZDF</channel>
+    <channel site="magenta.at_0" site_id="Das_Erste||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1001.f.png" xmltv_id="Das Erste">Das Erste</channel>
+    <channel site="magenta.at_0" site_id="ZDF_neo||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1023.f.png" xmltv_id="ZDFneo">ZDFneo</channel>
+    <channel site="magenta.at_0" site_id="EinsFestival" xmltv_id="One">One</channel>
+    <channel site="magenta.at_0" site_id="Comedy_Central_VIVA||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/3043.f.png" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="magenta.at_0" site_id="TLC" xmltv_id="TLC">TLC</channel>
+    <channel site="magenta.at_0" site_id="arte" xmltv_id="arte">arte</channel>
+    <channel site="magenta.at_0" site_id="3sat" xmltv_id="3sat">3sat</channel>
+    <channel site="magenta.at_0" site_id="BR||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1031.f.png" xmltv_id="BR Fernsehen">BR Fernsehen</channel>
+    <channel site="magenta.at_0" site_id="Phoenix" xmltv_id="phoenix">phoenix</channel>
+    <channel site="magenta.at_0" site_id="ZDF_info" xmltv_id="ZDFinfo">ZDFinfo</channel>
+    <channel site="magenta.at_0" site_id="tagesschau24" xmltv_id="tagesschau24">tagesschau24</channel>
+    <channel site="magenta.at_0" site_id="WDR||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1027.f.png" xmltv_id="WDR Fernsehen">WDR Fernsehen</channel>
+    <channel site="magenta.at_0" site_id="MDR||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1020.f.png" xmltv_id="MDR Fernsehen">MDR Fernsehen</channel>
+    <channel site="magenta.at_0" site_id="SWR||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1029.f.png" xmltv_id="SWR Fernsehen">SWR Fernsehen</channel>
+    <channel site="magenta.at_0" site_id="NDR" xmltv_id="NDR Fernsehen">NDR Fernsehen</channel>
+    <channel site="magenta.at_0" site_id="hessen_fernsehen||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1017.f.png" xmltv_id="HR">HR</channel>
+    <channel site="magenta.at_0" site_id="RBB_Fernsehen" xmltv_id="RBB Fernsehen">RBB Fernsehen</channel>
+    <channel site="magenta.at_0" site_id="KI_KA" xmltv_id="KiKA">KiKA</channel>
+    <channel site="magenta.at_0" site_id="Nickelodeon" xmltv_id="Nick">Nick</channel>
+    <channel site="magenta.at_0" site_id="QVC" xmltv_id="QVC">QVC</channel>
+    <channel site="magenta.at_0" site_id="HSE24||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1008.f.png" xmltv_id="HSE">HSE</channel>
+    <channel site="magenta.at_0" site_id="QVC_Plus||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4552.f.png" xmltv_id="QVC ZWEI">QVC ZWEI</channel>
+    <channel site="magenta.at_0" site_id="HSE24_Extra||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4557.f.png" xmltv_id="HSE Extra">HSE Extra</channel>
+    <channel site="magenta.at_0" site_id="Eurosport_1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="magenta.at_0" site_id="Sport_1||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1009.f.png" xmltv_id="Sport 1">Sport 1</channel>
+    <channel site="magenta.at_0" site_id="Tirol_TV" xmltv_id="Tirol TV">Tirol TV</channel>
+    <channel site="magenta.at_0" site_id="L_ndle_TV" xmltv_id="Ländle TV">Ländle TV</channel>
+    <channel site="magenta.at_0" site_id="W24" xmltv_id="W24">W24</channel>
+    <channel site="magenta.at_0" site_id="WNTV||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/WNTV_HD.f.png" xmltv_id="WNTV">WNTV</channel>
+    <channel site="magenta.at_0" site_id="ORF2_Burgenland" xmltv_id="ORF 2 Burgenland">ORF 2 Burgenland</channel>
+    <channel site="magenta.at_0" site_id="ORF2_K_rnten" xmltv_id="ORF 2 Kärnten">ORF 2 Kärnten</channel>
+    <channel site="magenta.at_0" site_id="ORF2_Nieder_sterreich||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7076.f.png" xmltv_id="ORF 2 Nö">ORF 2 Nö</channel>
+    <channel site="magenta.at_0" site_id="ORF2_Ober_sterreich||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7077.f.png" xmltv_id="ORF 2 Oberösterreich">ORF 2 Oberösterreich</channel>
+    <channel site="magenta.at_0" site_id="ORF2_Salzburg" xmltv_id="ORF 2 Salzburg">ORF 2 Salzburg</channel>
+    <channel site="magenta.at_0" site_id="ORF2_Steiermark" xmltv_id="ORF 2 Steiermark">ORF 2 Steiermark</channel>
+    <channel site="magenta.at_0" site_id="ORF2_Tirol" xmltv_id="ORF 2 Tirol">ORF 2 Tirol</channel>
+    <channel site="magenta.at_0" site_id="ORF2_Vorarlberg||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7082.f.png" xmltv_id="ORF 2 Vorarlberg">ORF 2 Vorarlberg</channel>
+    <channel site="magenta.at_0" site_id="Sky_1||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8428.f.png" xmltv_id="Sky One HD">Sky One HD</channel>
+    <channel site="magenta.at_0" site_id="Sky_Nature_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Sky_Nature_HD.f.png" xmltv_id="Sky Nature HD">Sky Nature HD</channel>
+    <channel site="magenta.at_0" site_id="Sky_Documentaries_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Sky_Documentaries_HD.f.png" xmltv_id="Sky Documentaries HD">Sky Documentaries HD</channel>
+    <channel site="magenta.at_0" site_id="Disney_XD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1085.f.png" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="magenta.at_0" site_id="Sky_Popup_Channel_HD" xmltv_id="Sky Replay HD">Sky Replay HD</channel>
+    <channel site="magenta.at_0" site_id="Sky_Crime_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Sky_Crime_HD.f.png" xmltv_id="Sky Crime HD">Sky Crime HD</channel>
+    <channel site="magenta.at_0" site_id="Sky_Comedy_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Sky_Comedy_HD.f.png" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
+    <channel site="magenta.at_0" site_id="Sky_Atlantic_HD" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
+    <channel site="magenta.at_0" site_id="Sky_Cinema_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4592.f.png" xmltv_id="Sky Cinema Premieren HD">Sky Cinema Premieren HD</channel>
+    <channel site="magenta.at_0" site_id="Sky_Hits_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4648.f.png" xmltv_id="Sky Cinema Best of HD">Sky Cinema Best of HD</channel>
+    <channel site="magenta.at_0" site_id="Sky_Cinema_Family_HD" xmltv_id="Sky Cinema Family HD">Sky Cinema Family HD</channel>
+    <channel site="magenta.at_0" site_id="Disney_Cinemagic_HD" xmltv_id="Sky Cinema Special HD">Sky Cinema Special HD</channel>
+    <channel site="magenta.at_0" site_id="Sky_Cinema_Action_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/3061.HD.f.png" xmltv_id="Sky Cinema Action HD">Sky Cinema Action HD</channel>
+    <channel site="magenta.at_0" site_id="Sky_Cinema_Thriller_HD" xmltv_id="Sky Cinema Thriller HD">Sky Cinema Thriller HD</channel>
+    <channel site="magenta.at_0" site_id="Sky_Cinema__24||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/3022.f.png" xmltv_id="Sky Cinema Premieren +24">Sky Cinema Premieren +24</channel>
+    <channel site="magenta.at_0" site_id="Sky_Nostalgie||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/3025.f.png" xmltv_id="Sky Cinema Classics">Sky Cinema Classics</channel>
+    <channel site="magenta.at_0" site_id="Sky_Comedy" xmltv_id="Sky Cinema Fun">Sky Cinema Fun</channel>
+    <channel site="magenta.at_0" site_id="Sky_Sport_News_HD" xmltv_id="Sky Sport News HD">Sky Sport News HD</channel>
+    <channel site="magenta.at_0" site_id="Sky_Sport_Austria_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8089.f.png" xmltv_id="Sky Sport Austria 1 HD">Sky Sport Austria 1 HD</channel>
+    <channel site="magenta.at_0" site_id="Sky_Sport_Austria_2_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8126.f.png" xmltv_id="Sky Sport Austria 2 HD">Sky Sport Austria 2 HD</channel>
+    <channel site="magenta.at_0" site_id="Sky_Sport_Austria_3_HD" xmltv_id="Sky Sport Austria 3 HD">Sky Sport Austria 3 HD</channel>
+    <channel site="magenta.at_0" site_id="Sky_Sport_Austria_4_HD" xmltv_id="Sky Sport Austria 4 HD">Sky Sport Austria 4 HD</channel>
+    <channel site="magenta.at_0" site_id="Sky_Sport_Austria_5_HD" xmltv_id="Sky Sport Austria 5 HD">Sky Sport Austria 5 HD</channel>
+    <channel site="magenta.at_0" site_id="Sky_Sport_Austria_6_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Sky_Sport_Austria_6_HD.f.png" xmltv_id="Sky Sport Austria 6 HD">Sky Sport Austria 6 HD</channel>
+    <channel site="magenta.at_0" site_id="Sky_Sport_Austria_7_HD||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Sky_Sport_Austria_7_HD.f.png" xmltv_id="Sky Sport Austria 7 HD">Sky Sport Austria 7 HD</channel>
+    <channel site="magenta.at_0" site_id="Sky_Sport_F1_HD" xmltv_id="Sky Sport F1">Sky Sport F1</channel>
+    <channel site="magenta.at_0" site_id="Sky_Sport_HD_1" xmltv_id="Sky Sport HD 1">Sky Sport HD 1</channel>
+    <channel site="magenta.at_0" site_id="Sky_Sport_HD_2||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4594.f.png" xmltv_id="Sky Sport HD 2">Sky Sport HD 2</channel>
+    <channel site="magenta.at_0" site_id="Sky_Sport_HD_3||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4682.f.png" xmltv_id="Sky Sport HD 3">Sky Sport HD 3</channel>
+    <channel site="magenta.at_0" site_id="Sky_Sport_HD_4" xmltv_id="Sky Sport HD 4">Sky Sport HD 4</channel>
+    <channel site="magenta.at_0" site_id="Sky_Sport_HD_5" xmltv_id="Sky Sport HD 5">Sky Sport HD 5</channel>
+    <channel site="magenta.at_0" site_id="Sky_Sport_HD_6||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7105.f.png" xmltv_id="Sky Sport HD 6">Sky Sport HD 6</channel>
+    <channel site="magenta.at_0" site_id="Sky_Sport_HD_7" xmltv_id="Sky Sport HD 7">Sky Sport HD 7</channel>
+    <channel site="magenta.at_0" site_id="Sky_Sport_HD_8" xmltv_id="Sky Sport HD 8">Sky Sport HD 8</channel>
+    <channel site="magenta.at_0" site_id="Sky_Sport_HD_9||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7108.f.png" xmltv_id="Sky Sport HD 9">Sky Sport HD 9</channel>
+    <channel site="magenta.at_0" site_id="Sky_Sport_HD_10" xmltv_id="Sky Sport HD 10">Sky Sport HD 10</channel>
+    <channel site="magenta.at_0" site_id="Sky_Sport_HD_11" xmltv_id="Sky Sport HD 11">Sky Sport HD 11</channel>
+    <channel site="magenta.at_0" site_id="Sky_Bundesliga_HD_1||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4649.f.png" xmltv_id="Sky Bundesliga HD 1">Sky Bundesliga HD 1</channel>
+    <channel site="magenta.at_0" site_id="Sky_Bundesliga_HD_2" xmltv_id="Sky Bundesliga HD 2">Sky Bundesliga HD 2</channel>
+    <channel site="magenta.at_0" site_id="Sky_Bundesliga_HD_3" xmltv_id="Sky Bundesliga HD 3">Sky Bundesliga HD 3</channel>
+    <channel site="magenta.at_0" site_id="Sky_Bundesliga_HD_4" xmltv_id="Sky Bundesliga HD 4">Sky Bundesliga HD 4</channel>
+    <channel site="magenta.at_0" site_id="Sky_Bundesliga_HD_5" xmltv_id="Sky Bundesliga HD 5">Sky Bundesliga HD 5</channel>
+    <channel site="magenta.at_0" site_id="Sky_Bundesliga_HD_6||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7099.f.png" xmltv_id="Sky Bundesliga HD 6">Sky Bundesliga HD 6</channel>
+    <channel site="magenta.at_0" site_id="Sky_Bundesliga_HD_7||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7100.f.png" xmltv_id="Sky Bundesliga HD 7">Sky Bundesliga HD 7</channel>
+    <channel site="magenta.at_0" site_id="Sky_Bundesliga_HD_8||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7101.f.png" xmltv_id="Sky Bundesliga HD 8">Sky Bundesliga HD 8</channel>
+    <channel site="magenta.at_0" site_id="Sky_Bundesliga_HD_9" xmltv_id="Sky Bundesliga HD 9">Sky Bundesliga HD 9</channel>
+    <channel site="magenta.at_0" site_id="Sky_Bundesliga_HD_10" xmltv_id="Sky Bundesliga HD 10">Sky Bundesliga HD 10</channel>
+    <channel site="magenta.at_0" site_id="Total_Hits_Austria||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Total_Hits_Austria.f.png" xmltv_id="Total Hits Österreich">Total Hits Österreich</channel>
+    <channel site="magenta.at_0" site_id="Total_Hits_Deutschland" xmltv_id="Total Hits Deutschland">Total Hits Deutschland</channel>
+    <channel site="magenta.at_0" site_id="Total_Hits_UK||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Total_Hits_UK.f.png" xmltv_id="Total Hits UK">Total Hits UK</channel>
+    <channel site="magenta.at_0" site_id="Total_Hits_Italien" xmltv_id="Total Hits Italien">Total Hits Italien</channel>
+    <channel site="magenta.at_0" site_id="Total_Hits_Spanien||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Total_Hits_Spanien.f.png" xmltv_id="Total Hits Spanien">Total Hits Spanien</channel>
+    <channel site="magenta.at_0" site_id="Total_Hits_Frankreich||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Total_Hits_Frankreich.f.png" xmltv_id="Total Hits Frankreich">Total Hits Frankreich</channel>
+    <channel site="magenta.at_0" site_id="Kuschelsongs" xmltv_id="Kuschelsongs">Kuschelsongs</channel>
+    <channel site="magenta.at_0" site_id="All_Day_Party||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/All_Day_Party.f.png" xmltv_id="All Day Party">All Day Party</channel>
+    <channel site="magenta.at_0" site_id="2000s||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/2000s.f.png" xmltv_id="2000's">2000's</channel>
+    <channel site="magenta.at_0" site_id="90s" xmltv_id="90's">90's</channel>
+    <channel site="magenta.at_0" site_id="80s||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/80s.f.png" xmltv_id="80's">80's</channel>
+    <channel site="magenta.at_0" site_id="70s" xmltv_id="Soho 70's">Soho 70's</channel>
+    <channel site="magenta.at_0" site_id="60s||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/60s.f.png" xmltv_id="60's">60's</channel>
+    <channel site="magenta.at_0" site_id="Rock_n_Roll_Era" xmltv_id="Rock'n'Roll">Rock'n'Roll</channel>
+    <channel site="magenta.at_0" site_id="Revival" xmltv_id="Revival - 60er &amp; 70er">Revival - 60er &amp; 70er</channel>
+    <channel site="magenta.at_0" site_id="Ultimate_Urban||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Ultimate_Urban.f.png" xmltv_id="Urban - Germany">Urban - Germany</channel>
+    <channel site="magenta.at_0" site_id="Groove_Disco_Funk" xmltv_id="Groove (Disco &amp; Funk)">Groove (Disco &amp; Funk)</channel>
+    <channel site="magenta.at_0" site_id="Classic_RnB_Soul" xmltv_id="Classic R'n'B &amp; Soul">Classic R'n'B &amp; Soul</channel>
+    <channel site="magenta.at_0" site_id="Reggae" xmltv_id="Reggae">Reggae</channel>
+    <channel site="magenta.at_0" site_id="Blues||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Blues.f.png" xmltv_id="Blues">Blues</channel>
+    <channel site="magenta.at_0" site_id="Dance_Floor_Fillers||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Dance_Floor_Fillers.f.png" xmltv_id="Dance Floor Fillers">Dance Floor Fillers</channel>
+    <channel site="magenta.at_0" site_id="Bass_Breaks_Beates||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Bass_Breaks_Beates.f.png" xmltv_id="Bass Breaks &amp; Beats">Bass Breaks &amp; Beats</channel>
+    <channel site="magenta.at_0" site_id="Chillout" xmltv_id="Chillout">Chillout</channel>
+    <channel site="magenta.at_0" site_id="The_Alternative||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/The_Alternative.f.png" xmltv_id="The Alternative">The Alternative</channel>
+    <channel site="magenta.at_0" site_id="Rock_Anthems" xmltv_id="Rock Anthems">Rock Anthems</channel>
+    <channel site="magenta.at_0" site_id="Classic_Rock||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Classic_Rock.f.png" xmltv_id="Classic Rock">Classic Rock</channel>
+    <channel site="magenta.at_0" site_id="Headbangers||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Headbangers.f.png" xmltv_id="Headbangers">Headbangers</channel>
+    <channel site="magenta.at_0" site_id="Indie_Classic||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Indie_Classic.f.png" xmltv_id="Indie Classic">Indie Classic</channel>
+    <channel site="magenta.at_0" site_id="Romantische_Klassik||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Romantische_Klassik.f.png" xmltv_id="Classical Calm">Classical Calm</channel>
+    <channel site="magenta.at_0" site_id="Populaere_Klassik" xmltv_id="Classical Greats">Classical Greats</channel>
+    <channel site="magenta.at_0" site_id="Orchester_Klassik" xmltv_id="Orchester Klassik">Orchester Klassik</channel>
+    <channel site="magenta.at_0" site_id="Cool_Jazz||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Cool_Jazz.f.png" xmltv_id="Cool Jazz">Cool Jazz</channel>
+    <channel site="magenta.at_0" site_id="Jass_Classics||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Jass_Classics.f.png" xmltv_id="Jazz Classics">Jazz Classics</channel>
+    <channel site="magenta.at_0" site_id="Cocktail_Lounge" xmltv_id="Cocktail Lounge">Cocktail Lounge</channel>
+    <channel site="magenta.at_0" site_id="Hot_Country" xmltv_id="Hot Country">Hot Country</channel>
+    <channel site="magenta.at_0" site_id="Latin" xmltv_id="Latin">Latin</channel>
+    <channel site="magenta.at_0" site_id="World_Carnival" xmltv_id="World Carnival">World Carnival</channel>
+    <channel site="magenta.at_0" site_id="Chansons" xmltv_id="Chansons">Chansons</channel>
+    <channel site="magenta.at_0" site_id="Kinder||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Kinder.f.png" xmltv_id="Kinder">Kinder</channel>
+    <channel site="magenta.at_0" site_id="Schlager||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Schlager.f.png" xmltv_id="Schlager">Schlager</channel>
+    <channel site="magenta.at_0" site_id="Sommer_Hits||https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Sommer_Hits.f.png" xmltv_id="Sommer Hits">Sommer Hits</channel>
+    <channel site="magenta.at_0" site_id="Volksmusik" xmltv_id="Volksmusik">Volksmusik</channel>
+    <channel site="magenta.at_0" site_id="Tuerk_Muezigi" xmltv_id="Türk Müzigi">Türk Müzigi</channel>
+    <channel site="magenta.at_0" site_id="Total_Hits_Poland" xmltv_id="Total Hits Polen">Total Hits Polen</channel>
+    <channel site="magenta.at_0" site_id="Event_Specials" xmltv_id="Event-Specials">Event-Specials</channel>
+  </channels>
+</site>
