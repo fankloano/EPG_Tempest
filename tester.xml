@@ -1,17 +1,21 @@
 <tv>
    <channel id="DE: Warner TV Film">
+      <display-name lang="de">DE: Warner TV Film</display-name>
       <display-name lang="de">Warner TV Film</display-name>
       <url>http://www.web.magentatv.de</url>
    </channel>
    <channel id="DE: Warner TV Serie">
+      <display-name lang="de">DE: Warner TV Serie</display-name>
       <display-name lang="de">Warner TV Serie</display-name>
       <url>http://www.web.magentatv.de</url>
    </channel>
    <channel id="DE: Das Erste">
+      <display-name lang="de">DE: Das Erste</display-name>
       <display-name lang="de">Das Erste</display-name>
       <url>http://www.web.magentatv.de</url>
    </channel>
    <channel id="DE: KiKA">
+      <display-name lang="de">DE: KiKA</display-name>
       <display-name lang="de">KiKA</display-name>
       <url>http://www.web.magentatv.de</url>
    </channel>
