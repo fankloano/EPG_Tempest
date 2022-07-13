@@ -26,6 +26,7 @@ return array (
   'title' => '"et":"(.*?)"',
   'subtitle' => '"epit":"(.*?)"',
   'category' => '"ec":"(.*?)"',
+  'channel_logo' => '||#add###cclogo##',
   'production_date' => '"yop":(.*?),',
   'country' => '"cop":"(.*?)"',
   'rating' => '"fsk":"ab (.*?) Jahr',
