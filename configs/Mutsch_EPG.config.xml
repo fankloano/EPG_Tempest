@@ -6,7 +6,7 @@
   <logger>off</logger>
   <retry>2</retry>
   <time-out>5</time-out>
-  <timespan>4</timespan>
+  <timespan>9</timespan>
   <proxy/>
   <index-only>off</index-only>
   <fusion>off</fusion>
@@ -16,7 +16,7 @@
   <channel-lister>on</channel-lister>
   <inverter>on</inverter>
   <inverter-filename>mutschepg</inverter-filename>
-  <inverter-path>["subtitle":"##subtitle##","# · #episode##"]["episode":||#delete#]["desc":"##category(, )##","# | #country##","# | #date##","# | FSK: #rating##","# | IMDB: #star-rating##","#\nModeration: #presenter(, )##","#\nGäster: #guest(, )##","#\n#desc##","#\nRegie: #director(, )##","#\nDarsteller: \n#actor(, )##]["category":||#delete#]["actor":||#delete#]["director":||#delete#]["date":||#delete#]["country":||#delete#]["rating":||#delete#]["presenter":||#delete#]</inverter-path>
+  <inverter-path>["subtitle":"##subtitle##","# · #episode##"]["episode":||#delete#]["desc":"##category(, )##","# | #country##","# #date##","# | FSK: #rating##","# | IMDB: #star-rating##","#\nModeration: #presenter(, )##","#\nGäster: #guest(, )##","#\n#desc##","#\nRegie: #director(, )##","#\nDarsteller: \n#actor(, )##]["category":||#delete#]["actor":||#delete#]["director":||#delete#]["date":||#delete#]["country":||#delete#]["rating":||#delete#]["presenter":||#delete#]</inverter-path>
   <channel site="web.magentatv.de_0" site_id="373||https://raw.githubusercontent.com/fankloano/EPG_Tempest/main/Logos/daserste.png" cyclone_site="live.tvspielfilm.de _0" cyclone_id="ARD" xmltv_id="daserste.de">DE: Das Erste||Das Erste||Das Erste HD||Das Erste FHD||Das Erste HD+||Das Erste HEVC||Das Erste FullHD||Das Erste RAW||ARD||ARD HD||ARD FHD||ARD HD+||ARD HEVC||ARD RAW||ARD FullHD||DE: Das Erste HD||DE: Das Erste FHD||DE: Das Erste HD+||DE: Das Erste HEVC||DE: Das Erste FullHD||DE: Das Erste RAW||DE: ARD||DE: ARD HD||DE: ARD FHD||DE: ARD HD+||DE: ARD HEVC||DE: ARD RAW||DE: ARD FullHD||DE| Das Erste||DE| Das Erste HD||DE| Das Erste FHD||DE| Das Erste HD+||DE| Das Erste HEVC||DE| Das Erste FullHD||DE| Das Erste RAW||DE| ARD||DE| ARD HD||DE| ARD FHD||DE| ARD HD+||DE| ARD HEVC||DE| ARD RAW||DE| ARD FullHD||DE | Das Erste||DE | Das Erste HD||DE | Das Erste FHD||DE | Das Erste HD+||DE | Das Erste HEVC||DE | Das Erste FullHD||DE | Das Erste RAW||DE | ARD||DE | ARD HD||DE | ARD FHD||DE | ARD HD+||DE | ARD HEVC||DE | ARD RAW||DE | ARD FullHD</channel>
   <channel site="web.magentatv.de_0" site_id="408||https://raw.githubusercontent.com/fankloano/EPG_Tempest/main/Logos/zdf.png" cyclone_site="live.tvspielfilm.de _0" cyclone_id="ZDF" xmltv_id="zdf.de">DE: ZDF||ZDF||ZDF HD||ZDF FHD||ZDF HD+||ZDF HEVC||ZDF RAW||ZDF FullHD||DE: ZDF||DE: ZDF HD||DE: ZDF FHD||DE: ZDF HD+||DE: ZDF HEVC||DE: ZDF RAW||DE: ZDF FullHD||DE| ZDF||DE| ZDF HD||DE| ZDF FHD||DE| ZDF HD+||DE| ZDF HEVC||DE| ZDF FullHD||DE| ZDF RAW||DE | ZDF||DE | ZDF HD||DE | ZDF FHD||DE | ZDF HD+||DE | ZDF HEVC||DE | ZDF FullHD||DE | ZDF RAW</channel>
   <channel site="web.magentatv.de_0" site_id="404||https://raw.githubusercontent.com/fankloano/EPG_Tempest/main/Logos/rtl.png" cyclone_site="live.tvspielfilm.de _0" cyclone_id="RTL2" xmltv_id="rtl.de">DE:RTL||RTL||RTL HD||RTL FHD||RTL HD+||RTL HEVC||RTL RAW||RTL FullHD||DE: RTL||DE: RTL HD||DE: RTL FHD||DE: RTL HD+||DE: RTL HEVC||DE: RTL RAW||DE: RTL FullHD||DE| RTL||DE| RTL HD||DE| RTL FHD||DE| RTL HD+||DE| RTL HEVC||DE| RTL FullHD||DE| RTL RAW||DE | RTL||DE | RTL HD||DE | RTL FHD||DE | RTL HD+||DE | RTL HEVC||DE | RTL FullHD||DE | RTL RAW</channel>
