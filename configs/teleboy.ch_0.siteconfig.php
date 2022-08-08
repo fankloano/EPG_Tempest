@@ -19,7 +19,7 @@ return array (
   'custom_header1' => 'x-teleboy-apikey: e899f715940a209148f834702fc7f340b6b0496b62120b3ed9c9b3ec4d7dca00',
   'urldate_format1' => 'Y-m-d',
   'stopdate_format1' => 'Y-m-d',
-  'show' => '"id":(.*?)"base_path"|"id":(.*?)\\]\\}\\}',
+  'show' => '"id":(.*?)is_audio_description"',
   'start' => '"begin":"(.*?)\\+||#replace#(T)',
   'start_format' => 'Y-m-dH:i:s',
   'stop' => '"end":"(.*?)\\+||#replace#(T)',
