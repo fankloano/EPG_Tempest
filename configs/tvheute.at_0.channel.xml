@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="tvheute.at_0">
+  <channels>
+    <channel site="tvheute.at_0" site_id="orf1" xmltv_id="ORF1">ORF1</channel>
+    <channel site="tvheute.at_0" site_id="orf2" xmltv_id="ORF2">ORF2</channel>
+    <channel site="tvheute.at_0" site_id="orf_iii" xmltv_id="ORF III">ORF III</channel>
+    <channel site="tvheute.at_0" site_id="servustv" xmltv_id="ServusTV">ServusTV</channel>
+    <channel site="tvheute.at_0" site_id="atv" xmltv_id="ATV">ATV</channel>
+    <channel site="tvheute.at_0" site_id="puls_4" xmltv_id="PULS 4">PULS 4</channel>
+    <channel site="tvheute.at_0" site_id="atv2" xmltv_id="ATV2">ATV2</channel>
+    <channel site="tvheute.at_0" site_id="ard" xmltv_id="ARD">ARD</channel>
+    <channel site="tvheute.at_0" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
+    <channel site="tvheute.at_0" site_id="3sat" xmltv_id="3SAT">3SAT</channel>
+    <channel site="tvheute.at_0" site_id="arte" xmltv_id="ARTE">ARTE</channel>
+    <channel site="tvheute.at_0" site_id="pro7" xmltv_id="PRO7">PRO7</channel>
+    <channel site="tvheute.at_0" site_id="sat1" xmltv_id="SAT1">SAT1</channel>
+    <channel site="tvheute.at_0" site_id="rtl" xmltv_id="RTL">RTL</channel>
+    <channel site="tvheute.at_0" site_id="vox" xmltv_id="VOX">VOX</channel>
+    <channel site="tvheute.at_0" site_id="k1" xmltv_id="K1">K1</channel>
+    <channel site="tvheute.at_0" site_id="rtl2" xmltv_id="RTL2">RTL2</channel>
+    <channel site="tvheute.at_0" site_id="sixx" xmltv_id="sixx">sixx</channel>
+    <channel site="tvheute.at_0" site_id="sat1gold" xmltv_id="Sat1Gold">Sat1Gold</channel>
+    <channel site="tvheute.at_0" site_id="nitro" xmltv_id="NITRO">NITRO</channel>
+    <channel site="tvheute.at_0" site_id="rtlcrime" xmltv_id="RTLCrime">RTLCrime</channel>
+    <channel site="tvheute.at_0" site_id="rtlliving" xmltv_id="RTLLiving">RTLLiving</channel>
+    <channel site="tvheute.at_0" site_id="7maxx" xmltv_id="7MAXX">7MAXX</channel>
+    <channel site="tvheute.at_0" site_id="tele_5" xmltv_id="Tele 5">Tele 5</channel>
+    <channel site="tvheute.at_0" site_id="dmax" xmltv_id="DMAX">DMAX</channel>
+    <channel site="tvheute.at_0" site_id="zdfneo" xmltv_id="ZDFneo">ZDFneo</channel>
+    <channel site="tvheute.at_0" site_id="one" xmltv_id="ONE">ONE</channel>
+    <channel site="tvheute.at_0" site_id="zdfinfo" xmltv_id="ZDFinfo">ZDFinfo</channel>
+    <channel site="tvheute.at_0" site_id="phoenix" xmltv_id="PHOENIX">PHOENIX</channel>
+    <channel site="tvheute.at_0" site_id="welt" xmltv_id="WELT">WELT</channel>
+    <channel site="tvheute.at_0" site_id="ntv" xmltv_id="NTV">NTV</channel>
+    <channel site="tvheute.at_0" site_id="oe24tv" xmltv_id="OE24TV">OE24TV</channel>
+    <channel site="tvheute.at_0" site_id="orf_+" xmltv_id="ORF +">ORF +</channel>
+    <channel site="tvheute.at_0" site_id="sport1" xmltv_id="Sport1">Sport1</channel>
+    <channel site="tvheute.at_0" site_id="euro" xmltv_id="EURO">EURO</channel>
+    <channel site="tvheute.at_0" site_id="dazn" xmltv_id="DAZN">DAZN</channel>
+    <channel site="tvheute.at_0" site_id="kika" xmltv_id="KIKA">KIKA</channel>
+    <channel site="tvheute.at_0" site_id="rtls" xmltv_id="RTLS">RTLS</channel>
+    <channel site="tvheute.at_0" site_id="disney" xmltv_id="Disney">Disney</channel>
+    <channel site="tvheute.at_0" site_id="nick" xmltv_id="NICK">NICK</channel>
+    <channel site="tvheute.at_0" site_id="br" xmltv_id="BR">BR</channel>
+    <channel site="tvheute.at_0" site_id="swr" xmltv_id="SWR">SWR</channel>
+    <channel site="tvheute.at_0" site_id="ndr" xmltv_id="NDR">NDR</channel>
+    <channel site="tvheute.at_0" site_id="wdr" xmltv_id="WDR">WDR</channel>
+    <channel site="tvheute.at_0" site_id="hr" xmltv_id="HR">HR</channel>
+    <channel site="tvheute.at_0" site_id="mdr" xmltv_id="MDR">MDR</channel>
+    <channel site="tvheute.at_0" site_id="rbb" xmltv_id="rbb">rbb</channel>
+    <channel site="tvheute.at_0" site_id="skyci" xmltv_id="SKYci">SKYci</channel>
+    <channel site="tvheute.at_0" site_id="skyaut" xmltv_id="SKYaut">SKYaut</channel>
+    <channel site="tvheute.at_0" site_id="skybl" xmltv_id="SKYbl">SKYbl</channel>
+    <channel site="tvheute.at_0" site_id="skysp1" xmltv_id="SKYsp1">SKYsp1</channel>
+    <channel site="tvheute.at_0" site_id="skysp2" xmltv_id="SKYsp2">SKYsp2</channel>
+  </channels>
+</site>

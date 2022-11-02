@@ -6,7 +6,7 @@ return array (
   'creator_name' => 'Mutsch',
   'creation_date' => '2022-04-08',
   'rev_no' => 'R0',
-  'timezone' => '+02:00',
+  'timezone' => '+01:00',
   'culture' => 'de',
   'max_day' => '14.1',
   'rating_system' => 'FSK',
