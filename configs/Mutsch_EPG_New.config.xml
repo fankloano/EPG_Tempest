@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Tempest EPG Generator (made by Kvanc) -->
+<configuration>
+  <filename>mutsch</filename>
+  <user-agent/>
+  <logger>off</logger>
+  <retry>2</retry>
+  <time-out>5</time-out>
+  <timespan>2</timespan>
+  <proxy/>
+  <index-only>off</index-only>
+  <fusion>off</fusion>
+  <fusion-level/>
+  <time-converter/>
+  <delay channel="" index="" detail=""/>
+  <channel-lister>off</channel-lister>
+  <inverter>off</inverter>
+  <inverter-filename>mutschepg</inverter-filename>
+  <inverter-path>["subtitle":"##subtitle##","# · #episode##"]["episode":||#delete#]["desc":"##category(, )##","# | #country##","# #date##","# | FSK: #rating##","# | IMDB: #star-rating##","#\nModeration: #presenter(, )##","#\nGäste: #guest(, )##","#\n#desc##","#\nRegie: #director(, )##","#\nDarsteller: \n#actor(, )##]["category":||#delete#]["actor":||#delete#]["director":||#delete#]["date":||#delete#]["country":||#delete#]["rating":||#delete#]["presenter":||#delete#]</inverter-path>
+  <logname/>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="88636||https://ondemo.tmsimg.com/assets/s88636_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="ORF1HD">ORF1HD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="101720||https://ondemo.tmsimg.com/assets/s101720_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="ORF2WHD">ORF2WHD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="88733||https://ondemo.tmsimg.com/assets/s88733_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="ATVHDAU">ATVHDAU</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="88738||https://ondemo.tmsimg.com/assets/s88738_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="PULS4HD">PULS4HD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="99536||https://ondemo.tmsimg.com/assets/s99536_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="SERVAHD">SERVAHD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="98841||https://ondemo.tmsimg.com/assets/s98841_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="PRO7OHD">PRO7OHD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="98827||https://ondemo.tmsimg.com/assets/s98827_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="RTLOSHD">RTLOSHD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="116013||https://ondemo.tmsimg.com/assets/s116013_ll_h9_aa.png?w=360&amp;h=270" xmltv_id="W24HD">W24HD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="99535||https://ondemo.tmsimg.com/assets/s99535_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="VOXOHD">VOXOHD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="98840||https://ondemo.tmsimg.com/assets/s98840_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="SAT1OHD">SAT1OHD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="99318||https://ondemo.tmsimg.com/assets/s99318_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="ORF3HD">ORF3HD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="99522||https://ondemo.tmsimg.com/assets/s99522_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="KAB1OHD">KAB1OHD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="98829||https://ondemo.tmsimg.com/assets/s98829_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="RTL2OHD">RTL2OHD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="101672||https://ondemo.tmsimg.com/assets/s101672_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="ATV2AHD">ATV2AHD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="112506||https://ondemo.tmsimg.com/assets/s112506_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="PULS24">PULS24</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="100923||https://ondemo.tmsimg.com/assets/s100923_ll_h9_aa.png?w=360&amp;h=270" xmltv_id="OE24HD">OE24HD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="121254||https://ondemo.tmsimg.com/sources/generic/generic_sources_h3.png" xmltv_id="EXXPRESS">EXXPRESS</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="107212||https://ondemo.tmsimg.com/assets/s107212_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="R9HD">R9HD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="113660||https://ondemo.tmsimg.com/assets/s113660_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="KURIER">KURIER</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="117392||https://ondemo.tmsimg.com/assets/s117392_ll_h9_aa.png?w=360&amp;h=270" xmltv_id="KRONEHD">KRONEHD</channel>
+  <channel site="Gracenote_DE_Dazn_0" site_id="111745||https://ondemo.tmsimg.com/assets/s111745_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="DAZN1HD">DAZN1HD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="117405||https://ondemo.tmsimg.com/assets/s117405_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="OKTOHD">OKTOHD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="117152||https://ondemo.tmsimg.com/assets/s117152_ll_h9_aa.png?w=360&amp;h=270" xmltv_id="ARCTVHD">ARCTVHD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="117393||https://ondemo.tmsimg.com/assets/s117393_ll_h9_aa.png?w=360&amp;h=270" xmltv_id="LAOLA1HD">LAOLA1HD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="117389||https://ondemo.tmsimg.com/sources/generic/generic_sources_h3.png" xmltv_id="K19AT">K19AT</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="101712||https://ondemo.tmsimg.com/assets/s101712_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="ORF2BHD">ORF2BHD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="101713||https://ondemo.tmsimg.com/assets/s101713_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="ORF2KHD">ORF2KHD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="101714||https://ondemo.tmsimg.com/assets/s101714_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="ORF2NHD">ORF2NHD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="101715||https://ondemo.tmsimg.com/assets/s101715_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="ORF2OHD">ORF2OHD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="101716||https://ondemo.tmsimg.com/assets/s101716_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="ORF2SAH">ORF2SAH</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="101717||https://ondemo.tmsimg.com/assets/s101717_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="ORF2STH">ORF2STH</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="101718||https://ondemo.tmsimg.com/assets/s101718_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="ORF2THD">ORF2THD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="101719||https://ondemo.tmsimg.com/assets/s101719_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="ORF2VHD">ORF2VHD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="113323||https://ondemo.tmsimg.com/assets/s113323_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="HITOE3">HITOE3</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="83941||https://ondemo.tmsimg.com/assets/s83941_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="ORF2EPE">ORF2EPE</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="118400||https://ondemo.tmsimg.com/sources/generic/generic_sources_h3.png" xmltv_id="TIROLHD">TIROLHD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="116178||https://ondemo.tmsimg.com/assets/s116178_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="LANDLEH">LANDLEH</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="117402||https://ondemo.tmsimg.com/assets/s117402_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="WNTVHD">WNTVHD</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="117400||https://ondemo.tmsimg.com/assets/s117400_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="SALZITV">SALZITV</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="117401||https://ondemo.tmsimg.com/assets/s117401_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="TV1OOE">TV1OOE</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="88616||https://ondemo.tmsimg.com/assets/s88616_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="LT1">LT1</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="83612||https://ondemo.tmsimg.com/assets/s83612_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="KTVFERN">KTVFERN</channel>
+  <channel site="Gracenote_AT_Magenta_Entert._0" site_id="88605||https://ondemo.tmsimg.com/assets/s88605_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="KT1STDT">KT1STDT</channel>
+  <channel site="Gracenote_DE_Dazn_0" site_id="111746||https://ondemo.tmsimg.com/assets/s111746_ll_h9_ac.png?w=360&amp;h=270" xmltv_id="DAZN2HD">DAZN2HD</channel>
+  <channel site="Gracenote_DE_Dazn_0" site_id="115599||https://ondemo.tmsimg.com/assets/s115599_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="NFLNWDE">NFLNWDE</channel>
+  <channel site="Gracenote_DE_Sky_0" site_id="86882||https://ondemo.tmsimg.com/assets/s86882_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="SKYBUHD">SKYBUHD</channel>
+  <channel site="Gracenote_DE_Sky_0" site_id="104845||https://ondemo.tmsimg.com/assets/s104845_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="SKYSPUH">SKYSPUH</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="90447||https://ondemo.tmsimg.com/assets/s90447_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="ARDGRHD">ARDGRHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="67217||https://ondemo.tmsimg.com/assets/s67217_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="ZDFGERH">ZDFGERH</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83641||https://ondemo.tmsimg.com/assets/s83641_ll_h9_ab.png?w=360&amp;h=270" xmltv_id="RTLHD">RTLHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83649||https://ondemo.tmsimg.com/assets/s83649_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="SAT1HD">SAT1HD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83632||https://ondemo.tmsimg.com/assets/s83632_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="PRO7HD">PRO7HD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83871||https://ondemo.tmsimg.com/assets/s83871_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="VOXHD">VOXHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="84053||https://ondemo.tmsimg.com/assets/s84053_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="KABEL1H">KABEL1H</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83642||https://ondemo.tmsimg.com/assets/s83642_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="RTL2HD">RTL2HD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83643||https://ondemo.tmsimg.com/assets/s83643_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="SURTLHD">SURTLHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83615||https://ondemo.tmsimg.com/assets/s83615_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="KIKAKHD">KIKAKHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="110430||https://ondemo.tmsimg.com/assets/s110430_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="NICKCC1">NICKCC1</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83545||https://ondemo.tmsimg.com/assets/s83545_ll_h15_ad.png?w=360&amp;h=270" xmltv_id="3SATHD">3SATHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83625||https://ondemo.tmsimg.com/assets/s83625_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="WELTHDE">WELTHDE</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="89070||https://ondemo.tmsimg.com/assets/s89070_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="NTVHD">NTVHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83627||https://ondemo.tmsimg.com/assets/s83627_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="PHONXHD">PHONXHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="84372||https://ondemo.tmsimg.com/assets/s84372_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="TELE5HD">TELE5HD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="90438||https://ondemo.tmsimg.com/assets/s90438_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="ZDFNGHD">ZDFNGHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="90459||https://ondemo.tmsimg.com/assets/s90459_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="HRHFHD">HRHFHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="92463||https://ondemo.tmsimg.com/assets/s92463_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="MDRSCHD">MDRSCHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="91973||https://ondemo.tmsimg.com/assets/s91973_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="NDRHHHD">NDRHHHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="91975||https://ondemo.tmsimg.com/assets/s91975_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="RBBBEHD">RBBBEHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="99511||https://ondemo.tmsimg.com/assets/s99511_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="SWRSRHD">SWRSRHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="84002||https://ondemo.tmsimg.com/assets/s84002_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="SPO1HD">SPO1HD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="87847||https://ondemo.tmsimg.com/assets/s87847_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="ARTDEUH">ARTDEUH</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="90457||https://ondemo.tmsimg.com/assets/s90457_ll_h15_ad.png?w=360&amp;h=270" xmltv_id="ONEARHD">ONEARHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="84044||https://ondemo.tmsimg.com/assets/s84044_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="ANIXE">ANIXE</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="67145||https://ondemo.tmsimg.com/assets/s67145_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="ANXHDGH">ANXHDGH</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="84375||https://ondemo.tmsimg.com/assets/s84375_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="CCDEHD">CCDEHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="120496||https://ondemo.tmsimg.com/assets/s120496_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="CRACTION">CRACTION</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83581||https://ondemo.tmsimg.com/assets/s83581_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="DMAXDHD">DMAXDHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="21799||https://ondemo.tmsimg.com/assets/s21799_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="FASHTV">FASHTV</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="84352||https://ondemo.tmsimg.com/assets/s84352_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="PROMXHD">PROMXHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83646||https://ondemo.tmsimg.com/assets/s83646_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="RTLNIHD">RTLNIHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="53951||https://ondemo.tmsimg.com/assets/s53951_ll_h9_ac.png?w=360&amp;h=270" xmltv_id="RTLUP">RTLUP</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="84136||https://ondemo.tmsimg.com/assets/s84136_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="RICRC">RICRC</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="86881||https://ondemo.tmsimg.com/assets/s86881_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="SATGHD">SATGHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83662||https://ondemo.tmsimg.com/assets/s83662_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="SIXXHD">SIXXHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="90213||https://ondemo.tmsimg.com/assets/s90213_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="TLCGHD">TLCGHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="100062||https://ondemo.tmsimg.com/assets/s100062_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="TOGPLUS">TOGPLUS</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="113743||https://ondemo.tmsimg.com/assets/s113743_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="VOXUPHD">VOXUPHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="124207||https://ondemo.tmsimg.com/assets/s124207_ll_h9_aa.png?w=360&amp;h=270" xmltv_id="WEDOMOV">WEDOMOV</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="110440||https://ondemo.tmsimg.com/assets/s110440_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="ARDALHD">ARDALHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83543||https://ondemo.tmsimg.com/assets/s83543_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="ZDFINHD">ZDFINHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83907||https://ondemo.tmsimg.com/assets/s83907_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="BIBLTV">BIBLTV</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="110848||https://ondemo.tmsimg.com/assets/s110848_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="N24DKHD">N24DKHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="90439||https://ondemo.tmsimg.com/assets/s90439_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="TAGARHD">TAGARHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="94648||https://ondemo.tmsimg.com/assets/s94648_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="WELTDW">WELTDW</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="118443||https://ondemo.tmsimg.com/assets/s118443_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="SCHLADX">SCHLADX</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="102398||https://ondemo.tmsimg.com/assets/s102398_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="SKYCLA">SKYCLA</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="90494||https://ondemo.tmsimg.com/assets/s90494_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="123TVGH">123TVGH</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="106914||https://ondemo.tmsimg.com/assets/s106914_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="CH21HD">CH21HD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="91980||https://ondemo.tmsimg.com/assets/s91980_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="HSE24G">HSE24G</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="73259||https://ondemo.tmsimg.com/assets/s73259_ll_h15_ad.png?w=360&amp;h=270" xmltv_id="QVCDEUT">QVCDEUT</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="119695||https://ondemo.tmsimg.com/assets/s119695_ll_h9_aa.png?w=360&amp;h=270" xmltv_id="SHOPLCDE">SHOPLCDE</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83544||https://ondemo.tmsimg.com/assets/s83544_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="13STHD">13STHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="88178||https://ondemo.tmsimg.com/assets/s88178_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="AXNBLHDE">AXNBLHDE</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83613||https://ondemo.tmsimg.com/assets/s83613_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="KINOWLT">KINOWLT</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83631||https://ondemo.tmsimg.com/assets/s83631_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="PRO7FHD">PRO7FHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83645||https://ondemo.tmsimg.com/assets/s83645_ll_h9_ac.png?w=360&amp;h=270" xmltv_id="RTLCRHD">RTLCRHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="86884||https://ondemo.tmsimg.com/assets/s86884_ll_h9_ab.png?w=360&amp;h=270" xmltv_id="SYFYHDG">SYFYHDG</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="90373||https://ondemo.tmsimg.com/assets/s90373_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="WBTVCOMH">WBTVCOMH</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83802||https://ondemo.tmsimg.com/assets/s83802_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="WBTVFHD">WBTVFHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83867||https://ondemo.tmsimg.com/assets/s83867_ll_h15_ad.png?w=360&amp;h=270" xmltv_id="WBTVSEHD">WBTVSEHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="84374||https://ondemo.tmsimg.com/assets/s84374_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="UNIDHD">UNIDHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83553||https://ondemo.tmsimg.com/assets/s83553_ll_h15_ag.png?w=360&amp;h=270" xmltv_id="BABYTVG">BABYTVG</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="84318||https://ondemo.tmsimg.com/assets/s84318_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="CARTDHD">CARTDHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="91064||https://ondemo.tmsimg.com/assets/s91064_ll_h9_ab.png?w=360&amp;h=270" xmltv_id="CNGERHD">CNGERHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83738||https://ondemo.tmsimg.com/assets/s83738_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="NICKJRD">NICKJRD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83873||https://ondemo.tmsimg.com/assets/s83873_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="HEIMKAN">HEIMKAN</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83636||https://ondemo.tmsimg.com/assets/s83636_ll_h9_ac.png?w=360&amp;h=270" xmltv_id="RTLPSHD">RTLPSHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83638||https://ondemo.tmsimg.com/assets/s83638_ll_h9_ac.png?w=360&amp;h=270" xmltv_id="ROMTVHD">ROMTVHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83644||https://ondemo.tmsimg.com/assets/s83644_ll_h9_ac.png?w=360&amp;h=270" xmltv_id="RTLLVHD">RTLLVHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="84356||https://ondemo.tmsimg.com/assets/s84356_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="SAT1EMH">SAT1EMH</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="84370||https://ondemo.tmsimg.com/assets/s84370_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="AXNWHHDE">AXNWHHDE</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="95663||https://ondemo.tmsimg.com/assets/s95663_ll_h9_aa.png?w=360&amp;h=270" xmltv_id="GEOTHD">GEOTHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83592||https://ondemo.tmsimg.com/assets/s83592_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="HISTHDD">HISTHDD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="86877||https://ondemo.tmsimg.com/assets/s86877_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="NGEOHD">NGEOHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="86880||https://ondemo.tmsimg.com/assets/s86880_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="NTGWHD">NTGWHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83629||https://ondemo.tmsimg.com/assets/s83629_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="BERGBHD">BERGBHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="90374||https://ondemo.tmsimg.com/assets/s90374_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="SPIEGHD">SPIEGHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="84055||https://ondemo.tmsimg.com/assets/s84055_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="SPIELWH">SPIELWH</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83549||https://ondemo.tmsimg.com/assets/s83549_ll_h15_ab.png?w=360&amp;h=270" xmltv_id="AUTOSHD">AUTOSHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="86872||https://ondemo.tmsimg.com/assets/s86872_ll_h15_ac.png?w=360&amp;h=270" xmltv_id="EURS2HD">EURS2HD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="92453||https://ondemo.tmsimg.com/assets/s92453_ll_h9_ab.png?w=360&amp;h=270" xmltv_id="MOTVHD">MOTVHD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83768||https://ondemo.tmsimg.com/assets/s83768_ll_h15_aa.png?w=360&amp;h=270" xmltv_id="SPRT1HD">SPRT1HD</channel>
+  <channel site="Gracenote_DE_MagentaTV_0" site_id="83688||https://ondemo.tmsimg.com/assets/s83688_ll_h15_ba.png?w=360&amp;h=270" xmltv_id="ESPO1HD">ESPO1HD</channel>
+</configuration>
