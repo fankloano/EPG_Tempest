@@ -28,7 +28,7 @@ return array (
   'production_date' => '"releaseYear":(.*?),',
   'actor' => '"topCast":\\["(.*?)"]||#replace#(",")||, ',
   'director' => '"directors":\\["(.*?)"]||#replace#(",")||, ',
-  'rating' => 'Fernsehen","code":"(.*?)"||#addend#+',
+  'rating' => 'Fernsehen","code":"(.*?)"||#addend#+||#exclude#0',
   'review' => '"tmsId":"(.*?)"',
   'ccurl1' => 'http://data.tmsapi.com/v1.1/lineups/AUT-1008140-DEFAULT/channels?api_key=n829qtk58c7ym5pxdch5smup',
   'ccrequestOption1' => '1',

@@ -2,9 +2,9 @@
 /*     Tempest EPG Generator (made by Kvanc)
 https://github.com/K-vanc/Tempest-EPG-Generator.git  */
 return array (
-  'filename' => 'Gracenote_DE_Sky',
+  'filename' => 'Gracenote_CH_Sunrise',
   'creator_name' => 'Alex',
-  'creation_date' => '2024-03-13',
+  'creation_date' => '2024-03-15',
   'rev_no' => 'R0',
   'timezone' => '+01:00',
   'culture' => 'de',
@@ -16,9 +16,9 @@ return array (
   'show' => '{"sta(.*?)}}}',
   'start' => 'rtTime":"(.*?)Z"||#replace#(T)||#date#+1hour',
   'start_format' => 'Y-m-dH:i',
-  'stop' => 'endTime":"(.*?)Z"||#replace#(T)||#date#+1hour',
+  'stop' => '"endTime":"(.*?)Z"||#replace#(T)||#date#+1hour',
   'stop_format' => 'Y-m-dH:i',
-  'title' => '"title":"(.*?)"',
+  'title' => '"title":"(.*?)",',
   'subtitle' => '"episodeTitle":"(.*?)",|"eventTitle":"(.*?)",',
   'desc' => '"longDescription":"(.*?)"',
   'category' => '"genres":\\["(.*?)"]||#replace#(",")||, ',
@@ -30,7 +30,7 @@ return array (
   'director' => '"directors":\\["(.*?)"]||#replace#(",")||, ',
   'rating' => 'Fernsehen","code":"(.*?)"||#addend#+||#exclude#0',
   'review' => '"tmsId":"(.*?)"',
-  'ccurl1' => 'http://data.tmsapi.com/v1.1/lineups/DEU-1000097-DEFAULT/channels?enhancedCallSign=true&api_key=n829qtk58c7ym5pxdch5smup',
+  'ccurl1' => 'http://data.tmsapi.com/v1.1/lineups/CHE-1008560-DEFAULT/channels?api_key=n829qtk58c7ym5pxdch5smup',
   'ccrequestOption1' => '1',
   'ccchannel_block' => '{"stat(.*?)}}',
   'ccchannel_id' => 'ionId":"(.*?)"',
