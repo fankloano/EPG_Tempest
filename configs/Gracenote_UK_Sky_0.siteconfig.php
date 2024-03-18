@@ -2,12 +2,11 @@
 /*     Tempest EPG Generator (made by Kvanc)
 https://github.com/K-vanc/Tempest-EPG-Generator.git  */
 return array (
-  'filename' => 'Gracenote_CH_Teleboy',
+  'filename' => 'Gracenote_UK_Sky',
   'creator_name' => 'Alex',
-  'creation_date' => '2024-03-13',
+  'creation_date' => '2024-03-18',
   'rev_no' => 'R0',
-  'timezone' => '+01:00',
-  'culture' => 'de',
+  'timezone' => '+02:00',
   'max_day' => '9.1',
   'url1' => 'http://data.tmsapi.com/v1.1/stations/##channel##/airings?startDateTime=##urldate1##T00:00Z&endDateTime=##stopdate1##T00:00Z&imageAspectTV=4x3&api_key=n829qtk58c7ym5pxdch5smup',
   'requestOption1' => '1',
@@ -31,7 +30,7 @@ return array (
   'director' => '"directors":\\["(.*?)"]||#replace#(",")||, ',
   'rating' => 'Fernsehen","code":"(.*?)"||#addend#+||#exclude#0',
   'review' => '"tmsId":"(.*?)"',
-  'ccurl1' => 'http://data.tmsapi.com/v1.1/lineups/CHE-1008268-DEFAULT/channels?enhancedCallSign=true&api_key=n829qtk58c7ym5pxdch5smup',
+  'ccurl1' => 'http://data.tmsapi.com/v1.1/lineups/GBR-1000199-DEFAULT/channels?api_key=n829qtk58c7ym5pxdch5smup',
   'ccrequestOption1' => '1',
   'ccchannel_block' => '{"stat(.*?)}}',
   'ccchannel_id' => 'ionId":"(.*?)"',

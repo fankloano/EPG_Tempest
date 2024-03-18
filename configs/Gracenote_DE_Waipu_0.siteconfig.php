@@ -24,6 +24,7 @@ return array (
   'showicon' => ',"uri":"(.*?)"||#max#1',
   'season' => '"seasonNum":(.*?),',
   'episode' => '"episodeNum":(.*?),',
+  'channel_logo' => '||#add###cclogo##',
   'production_date' => '"releaseYear":(.*?),',
   'actor' => '"topCast":\\["(.*?)"]||#replace#(",")||, ',
   'director' => '"directors":\\["(.*?)"]||#replace#(",")||, ',
